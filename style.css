@@ -1,6 +1,15 @@
 .header{
-    background-color: Orange;
+    background-color: aliceblue;
     text-align: center;
+}
+
+.profile {
+    border: 0;
+    width: 100%;
+}
+
+.bio {
+    margin-top: 10px;
 }
 
 h1,h2,h3, h4{
